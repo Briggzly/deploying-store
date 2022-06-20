@@ -1,0 +1,8 @@
+{
+  "env": {
+    "MONGO_USER": "Kyson",
+    "MONGO_PASSWORD": "LQJt8lCCSEINhHBF",
+    "MONGO_DEFAULT_DATABASE": "shop",
+    "STRIPE_KEY": "sk_test_51KxtXYK7wE9qdF1Q5QXihv8zUQg4YKCUcmIpVmwLj51AWHX7NbYnIydc5lrQc0bVqgzzzfkacXfoxurGKwneMjQy005HqAt28E"
+  }
+}
